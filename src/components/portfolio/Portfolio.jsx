@@ -13,7 +13,7 @@ const data = [
     id: 1,
     image: IMG,
     title: "Portfolio",
-    github: "https://github.com/YamGoel/portfolio-YamanGoyal.git",
+    github: "https://yamgoel.github.io/portfolio-YamanGoyal/",
     language: "React / JavaScript / HTML / CSS"
     // preview: "https://dribbble.com/Alien_pixels"
   },
