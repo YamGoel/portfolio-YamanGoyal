@@ -27,9 +27,14 @@
 }
 
 .portfolio__item-cta{
-    display: flex;
-    gap: 0.7rem;
-    margin-bottom: 1rem;
+    /* display: flex;
+    gap: 0.7rem; */
+    margin-bottom: auto;
+}
+
+.portfolio__item-cta h5{
+    margin-top: 0.7rem;
+    color: var(--color-light);
 }
 
 /* ============== Media Queries (Medium Devices) ============*/
