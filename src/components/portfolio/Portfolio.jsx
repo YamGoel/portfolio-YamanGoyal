@@ -1,5 +1,6 @@
 import React from 'react'
 import './portfolio.css'
+import IMG01 from '../../assets/shreenathsales.png'
 import IMG from '../../assets/portfolio.png'
 import IMG0 from '../../assets/portfolio0.png'
 import IMG1 from '../../assets/portfolio1.png'
@@ -9,6 +10,14 @@ import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 
 const data = [
+  {
+    id: 0,
+    image: IMG01,
+    title: "Shreenath Sales",
+    github: "https://shreenathsales.in/",
+    language: "WordPress"
+    // preview: "https://dribbble.com/Alien_pixels"
+  },
   {
     id: 1,
     image: IMG,
@@ -83,7 +92,7 @@ const Portfolio = () => {
             </div>
             <h3>{title}</h3>
             <div className="portfolio__item-cta">
-              <a href={github} className='btn btn-primary' target='_blank'>Github</a><br />
+              <a href={github} className='btn btn-primary' target='_blank'>Let's see</a><br />
               <h5>{language}</h5>
               {/* <a href={preview} className='btn btn-primary' target='_blank'>See Preview</a> */}
             </div>
