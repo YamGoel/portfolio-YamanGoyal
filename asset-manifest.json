@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio-YamanGoyal/static/css/main.f52b7325.css",
-    "main.js": "/portfolio-YamanGoyal/static/js/main.d6c412cd.js",
+    "main.css": "/portfolio-YamanGoyal/static/css/main.3cc83713.css",
+    "main.js": "/portfolio-YamanGoyal/static/js/main.9c5d14b6.js",
     "static/media/portfolio.png": "/portfolio-YamanGoyal/static/media/portfolio.1fd24fc24647759c0c8f.png",
     "static/media/portfolio2.png": "/portfolio-YamanGoyal/static/media/portfolio2.85953561b730883c524c.png",
     "static/media/portfolio3.png": "/portfolio-YamanGoyal/static/media/portfolio3.01380953ad70c989c3bb.png",
     "static/media/portfolio1.png": "/portfolio-YamanGoyal/static/media/portfolio1.3f51d623f4d6ca41a5d3.png",
     "static/media/shreenathsales.png": "/portfolio-YamanGoyal/static/media/shreenathsales.ee87fd39da5e64ffa2be.png",
     "static/media/portfolio4.png": "/portfolio-YamanGoyal/static/media/portfolio4.22e6ca17ab082075aca1.png",
-    "static/media/me-about.png": "/portfolio-YamanGoyal/static/media/me-about.a8ab4ce2a0ae675402e2.png",
+    "static/media/me-aboutn.png": "/portfolio-YamanGoyal/static/media/me-aboutn.e9212893d9d479d1b37b.png",
     "static/media/cv.pdf": "/portfolio-YamanGoyal/static/media/cv.c2d50de57bc5dfd3e401.pdf",
-    "static/media/me.png": "/portfolio-YamanGoyal/static/media/me.ef028ecc0da0f8ed0090.png",
     "static/media/portfolio0.png": "/portfolio-YamanGoyal/static/media/portfolio0.b9efe1938ee947182b63.png",
+    "static/media/portfolio6.png": "/portfolio-YamanGoyal/static/media/portfolio6.e607987eac02c9663759.png",
+    "static/media/melogo.png": "/portfolio-YamanGoyal/static/media/melogo.c2b53e497f0c75622b04.png",
     "static/media/portfolio5.png": "/portfolio-YamanGoyal/static/media/portfolio5.ba84d793a0bfb70d49d2.png",
     "static/media/bg-texture.jpg": "/portfolio-YamanGoyal/static/media/bg-texture.c1006931a4ac23564a40.jpg",
     "index.html": "/portfolio-YamanGoyal/index.html",
-    "main.f52b7325.css.map": "/portfolio-YamanGoyal/static/css/main.f52b7325.css.map",
-    "main.d6c412cd.js.map": "/portfolio-YamanGoyal/static/js/main.d6c412cd.js.map"
+    "main.3cc83713.css.map": "/portfolio-YamanGoyal/static/css/main.3cc83713.css.map",
+    "main.9c5d14b6.js.map": "/portfolio-YamanGoyal/static/js/main.9c5d14b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f52b7325.css",
-    "static/js/main.d6c412cd.js"
+    "static/css/main.3cc83713.css",
+    "static/js/main.9c5d14b6.js"
   ]
 }
