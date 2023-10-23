@@ -1,6 +1,8 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-aboutn.png'
+// import ME from '../../assets/me-aboutn.png'
+import Y from '../../assets/Y.png'
+import G from '../../assets/G.png'
 import {LiaAwardSolid} from 'react-icons/lia'
 import {MdSchool} from 'react-icons/md'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -14,7 +16,9 @@ const about = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About Image" />
+            {/* <img src={ME} alt="About Image" /> */}
+            <img className='Y' src={Y} alt="About Image" />
+            <img className='G' src={G} alt="About Image" />
           </div>
         </div>
         <div className="about__content">

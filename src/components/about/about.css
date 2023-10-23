@@ -14,16 +14,29 @@
 }
 
 .about__me-image{
+    display: flex;
     border-radius: 2rem;
-    overflow: hidden;
+    /* overflow: hidden; */
     transform: rotate(10deg);
-    /* height: 450px; */
-    /* margin-top: -2rem; */
     transition: var(--transition);
 }
 
-.about__me-image:hover{
-    transform: rotate(0);
+
+
+.Y{
+    margin-left: -20vh;
+    transition: var(--transition);
+}
+.G{
+    margin-left: -13vh;
+    transition: var(--transition);
+}
+
+.about__me-image:hover .Y{
+    margin-left: -10vh;
+}
+.about__me-image:hover .G{
+    margin-left: -35vh;
 }
 
 .about__cards{
