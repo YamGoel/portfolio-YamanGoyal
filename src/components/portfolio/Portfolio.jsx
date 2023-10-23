@@ -8,8 +8,17 @@ import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
+import IMG6 from '../../assets/portfolio6.png'
 
 const data = [
+  {
+    id: 8,
+    image: IMG6,
+    title: "Artfolio",
+    github: "https://yamgoel.github.io/Artfolio-Yaman-Goyal/",
+    language: "React / JavaScript / HTML / CSS"
+    // preview: "https://dribbble.com/Alien_pixels"
+  },
   {
     id: 0,
     image: IMG01,
