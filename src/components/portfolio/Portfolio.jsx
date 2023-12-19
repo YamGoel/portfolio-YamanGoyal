@@ -9,8 +9,17 @@ import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.png'
+import IMG7 from '../../assets/portfolio7.png'
 
 const data = [
+  {
+    id: 9,
+    image: IMG7,
+    title: "FitFinity",
+    github: "https://yamgoel.github.io/FitFinity/",
+    language: "React / JavaScript / HTML / CSS"
+    // preview: "https://dribbble.com/Alien_pixels"
+  },
   {
     id: 8,
     image: IMG6,
