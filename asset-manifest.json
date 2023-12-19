@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-YamanGoyal/static/css/main.c0003b08.css",
-    "main.js": "/portfolio-YamanGoyal/static/js/main.8337fcc9.js",
+    "main.js": "/portfolio-YamanGoyal/static/js/main.979f7018.js",
     "static/media/portfolio.png": "/portfolio-YamanGoyal/static/media/portfolio.1fd24fc24647759c0c8f.png",
     "static/media/portfolio2.png": "/portfolio-YamanGoyal/static/media/portfolio2.85953561b730883c524c.png",
     "static/media/portfolio3.png": "/portfolio-YamanGoyal/static/media/portfolio3.01380953ad70c989c3bb.png",
     "static/media/portfolio1.png": "/portfolio-YamanGoyal/static/media/portfolio1.3f51d623f4d6ca41a5d3.png",
     "static/media/shreenathsales.png": "/portfolio-YamanGoyal/static/media/shreenathsales.ee87fd39da5e64ffa2be.png",
+    "static/media/portfolio7.png": "/portfolio-YamanGoyal/static/media/portfolio7.b63f148e2fdb581dc28f.png",
     "static/media/portfolio4.png": "/portfolio-YamanGoyal/static/media/portfolio4.22e6ca17ab082075aca1.png",
     "static/media/cv.pdf": "/portfolio-YamanGoyal/static/media/cv.c2d50de57bc5dfd3e401.pdf",
     "static/media/portfolio0.png": "/portfolio-YamanGoyal/static/media/portfolio0.b9efe1938ee947182b63.png",
@@ -18,10 +19,10 @@
     "static/media/bg-texture.jpg": "/portfolio-YamanGoyal/static/media/bg-texture.c1006931a4ac23564a40.jpg",
     "index.html": "/portfolio-YamanGoyal/index.html",
     "main.c0003b08.css.map": "/portfolio-YamanGoyal/static/css/main.c0003b08.css.map",
-    "main.8337fcc9.js.map": "/portfolio-YamanGoyal/static/js/main.8337fcc9.js.map"
+    "main.979f7018.js.map": "/portfolio-YamanGoyal/static/js/main.979f7018.js.map"
   },
   "entrypoints": [
     "static/css/main.c0003b08.css",
-    "static/js/main.8337fcc9.js"
+    "static/js/main.979f7018.js"
   ]
 }
