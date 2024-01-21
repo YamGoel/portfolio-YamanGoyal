@@ -26,7 +26,7 @@ const about = () => {
             <article className='about__card'>
               <LiaAwardSolid className='about__icon'/>
               <h5>Experience</h5>
-              <small>Fresher</small>
+              <small>Professional | Full-Stack Developer</small>
             </article>
 
             <article className='about__card'>
@@ -38,11 +38,11 @@ const about = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+</small>
+              <small>12+</small>
             </article>
           </div>
           <p>
-            I am a MCA student with a strong foundation in computer science and a passion for technology-driven innovation. With a Bachelor's degree in Computer Science, I have honed my skills through hands-on projects and internships. I am eager to embark on my MCA journey, eager to explore emerging technologies and contribute to the ever-evolving world of computer applications.
+            I am a Full-Stack Developer with the qualification in MCA and a strong foundation in computer science and a passion for technology-driven innovation. With a Bachelor's degree in Computer Science, I have honed my skills through hands-on projects and internships. I am eager to embark on my journey, eager to explore emerging technologies and contribute to the ever-evolving world of computer applications.
             </p>
             <a href="#contact" id='contactbtn' className='btn btn-primary'>Let's Talk</a>
         </div>

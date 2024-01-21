@@ -94,7 +94,7 @@ const Experience = () => {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
               <h4>Django</h4>
-              <small className='text-light'>Basics</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
 
@@ -102,7 +102,7 @@ const Experience = () => {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
               <h4>Flask</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
 
