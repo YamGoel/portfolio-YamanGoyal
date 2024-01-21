@@ -10,8 +10,17 @@ import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.png'
 import IMG7 from '../../assets/portfolio7.png'
+import IMG8 from '../../assets/portfolio8.png'
 
 const data = [
+  {
+    id: 10,
+    image: IMG8,
+    title: "LetMeOrder",
+    github: "https://www.letmeorder.in",
+    language: "Django / Python / JavaScript / HTML / CSS"
+    // preview: "https://dribbble.com/Alien_pixels"
+  },
   {
     id: 9,
     image: IMG7,
