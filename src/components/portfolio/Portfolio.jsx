@@ -11,8 +11,17 @@ import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.png'
 import IMG7 from '../../assets/portfolio7.png'
 import IMG8 from '../../assets/portfolio8.png'
+import IMG9 from '../../assets/portfolio9.png'
 
 const data = [
+  {
+    id: 11,
+    image: IMG9,
+    title: "ThriftSell",
+    github: "https://www.thriftsell.in",
+    language: "Django / JavaScript / RazorPay / HTML / CSS"
+    // preview: "https://dribbble.com/Alien_pixels"
+  },
   {
     id: 10,
     image: IMG8,
