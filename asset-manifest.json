@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-YamanGoyal/static/css/main.c0003b08.css",
-    "main.js": "/portfolio-YamanGoyal/static/js/main.aa971da5.js",
+    "main.js": "/portfolio-YamanGoyal/static/js/main.d7bba932.js",
     "static/media/portfolio.png": "/portfolio-YamanGoyal/static/media/portfolio.1fd24fc24647759c0c8f.png",
     "static/media/portfolio2.png": "/portfolio-YamanGoyal/static/media/portfolio2.85953561b730883c524c.png",
     "static/media/portfolio3.png": "/portfolio-YamanGoyal/static/media/portfolio3.01380953ad70c989c3bb.png",
@@ -10,6 +10,7 @@
     "static/media/portfolio7.png": "/portfolio-YamanGoyal/static/media/portfolio7.b63f148e2fdb581dc28f.png",
     "static/media/portfolio4.png": "/portfolio-YamanGoyal/static/media/portfolio4.22e6ca17ab082075aca1.png",
     "static/media/portfolio8.png": "/portfolio-YamanGoyal/static/media/portfolio8.15176c52db7bfd987aec.png",
+    "static/media/portfolio9.png": "/portfolio-YamanGoyal/static/media/portfolio9.94fce124598e8d4016c7.png",
     "static/media/cv.pdf": "/portfolio-YamanGoyal/static/media/cv.f9a69b45ab19a2f84b71.pdf",
     "static/media/portfolio0.png": "/portfolio-YamanGoyal/static/media/portfolio0.b9efe1938ee947182b63.png",
     "static/media/portfolio6.png": "/portfolio-YamanGoyal/static/media/portfolio6.e607987eac02c9663759.png",
@@ -20,10 +21,10 @@
     "static/media/bg-texture.jpg": "/portfolio-YamanGoyal/static/media/bg-texture.c1006931a4ac23564a40.jpg",
     "index.html": "/portfolio-YamanGoyal/index.html",
     "main.c0003b08.css.map": "/portfolio-YamanGoyal/static/css/main.c0003b08.css.map",
-    "main.aa971da5.js.map": "/portfolio-YamanGoyal/static/js/main.aa971da5.js.map"
+    "main.d7bba932.js.map": "/portfolio-YamanGoyal/static/js/main.d7bba932.js.map"
   },
   "entrypoints": [
     "static/css/main.c0003b08.css",
-    "static/js/main.aa971da5.js"
+    "static/js/main.d7bba932.js"
   ]
 }
